@@ -1,57 +1,36 @@
 ---
-title: Example Event
-
-event: Wowchemy Conference
-event_url: https://example.org
-
-location: Wowchemy HQ
+title: 重味重子物理研究的机遇
+abstract: 粒子物理标准模型的CP破坏不足以解释宇宙中正反物质不对 称性，需要新的CP破坏源。目前实验上仅在介子系统发现CP破
+  坏，在重子系统中尚未有CP破坏的确切证据，因此寻找和研究重 子CP破坏是当今粒子物理的重要前沿课题。由于欠缺严谨完整的
+  QCD方法以精确预言重子CP破坏，而实验上已经获取了底重子和 粲重子衰变的大量数据，现在是对重味重子衰变及其CP破坏进行
+  系统理论探讨的最佳时机。本报告将从衰变动力学及其输入量如 形状因子和光锥分布振幅等角度介绍重味重子物理领域的最新进 展和前沿挑战。
+location: Online：512 1799 5752（腾讯会议）
+date: 2022-05-18T06:30:00.000Z
+date_end: 2022-05-18T08:30:00.000Z
+links: []
+event: Seminar Report
+event_url: no
+publishDate: 2022-05-18T05:48:37.264Z
+slides: null
+url_pdf: ""
+summary: An example event.
+featured: false
+authors: []
+url_video: ""
+url_slides: ""
 address:
   street: 450 Serra Mall
   city: Stanford
   region: CA
-  postcode: '94305'
+  postcode: "94305"
   country: United States
-
-summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
-
-authors: []
 tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
+projects: null
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
   focal_point: Right
-
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides:
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
+url_code: ""
+all_day: false
 ---
 
 Slides can be added in a few ways:
