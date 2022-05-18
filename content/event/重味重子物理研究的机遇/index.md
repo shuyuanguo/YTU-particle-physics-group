@@ -10,9 +10,11 @@ date_end: 2022-05-18T08:30:00.000Z
 all_day: false
 event: Seminar Report
 event_url: no
-publishDate: 2022-05-18T05:52:28.414Z
+publishDate: 2022-05-18T06:00:53.764Z
 draft: false
 featured: false
+tags:
+  - FlavorPhysics
 image:
   filename: ""
   focal_point: Smart
