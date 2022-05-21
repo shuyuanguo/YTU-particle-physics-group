@@ -22,7 +22,7 @@ date_end: 2022-05-20T03:30:00.000Z
 all_day: false
 event: Seminar Report
 event_url: no
-publishDate: 2022-05-21T09:15:29.845Z
+publishDate: 2022-05-21T09:29:09.303Z
 draft: false
 featured: false
 image:
